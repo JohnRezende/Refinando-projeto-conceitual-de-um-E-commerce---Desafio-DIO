@@ -22,3 +22,6 @@ MySQL Workbench
 
 Esse foi meu primeiro contato com um projeto conceitual de Banco de Dados. Ao decorrer do curso espero aprimorar cada vez mais minha noção e perspicácia ao criar/modificar projetos conceituais.
 
+*CERTIFICADO*
+
+![9XKKG1NP_page-0001](https://github.com/user-attachments/assets/4dbc48a7-667b-4110-9d7c-9ad5b13d1f5b)
