@@ -1,10 +1,13 @@
-# Refinando-projeto-conceitual-de-um-E-commerce---Desafio-DIO
-## Descrição do desafio
+ <h1 align="center">  Projeto: Formação SQL Database Specialist - DIO. <br/></h1>
+
+ <h2 align="center"> 📚 Repositório referente ao refinamento de um projeto conceitual de um E-commerce. </h2>
+ 
+ ***<h2> Descrição do Desafio </h2>***
 "Modelamos juntos um contexto reduzido de e-commerce. Agora é a sua vez, podes escolher a ferramenta de modelagem para realizar o desafio. Contudo, fique atento! Caso opte por uma variação do modelo entidade relacionamento, como nas ferramentas Mysql Workbench ou DBDesigner será preciso especificar as PK e FKs corretamente. Apesar desse conceito não ser utilizado na modelagem conceitual exploramos brevemente suas definições. Sendo assim, seu empregável será o esquema conceitual para o cenário de E-commerce."
 
 *Instrutora: Juliana Mascarenhas*
 
-## Objetivo
+ <h2> Objetivo </h2>
 
 Refine o modelo apresentado acrescentando os seguintes pontos:
 
